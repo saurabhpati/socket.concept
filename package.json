@@ -1,0 +1,33 @@
+{
+  "name": "socket.concept",
+  "version": "1.0.0",
+  "description": "concept familirization of socket.io",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saurabhpati/socket.concept.git"
+  },
+  "keywords": [
+    "socket",
+    "socket.io",
+    "socketio",
+    "io.socket",
+    "node",
+    "and",
+    "socket"
+  ],
+  "author": "Saurabh Pati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saurabhpati/socket.concept/issues"
+  },
+  "homepage": "https://github.com/saurabhpati/socket.concept#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "socket.io": "^2.0.3"
+  }
+}
